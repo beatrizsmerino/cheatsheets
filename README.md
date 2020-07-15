@@ -32,3 +32,6 @@
 ## JAVASCRIPT
 
 -   [Files](./files/javascript/)
+-   [https://overapi.com/javascript](https://overapi.com/javascript)
+-   [https://www.debuggex.com/cheatsheet/regex/javascript](https://www.debuggex.com/cheatsheet/regex/javascript)
+
