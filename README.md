@@ -35,3 +35,9 @@
 -   [https://overapi.com/javascript](https://overapi.com/javascript)
 -   [https://www.debuggex.com/cheatsheet/regex/javascript](https://www.debuggex.com/cheatsheet/regex/javascript)
 
+## JQUERY
+
+-   [https://oscarotero.com/jquery/](https://oscarotero.com/jquery/)
+-   [https://overapi.com/jquery](https://overapi.com/jquery)
+-   [https://www.petefreitag.com/cheatsheets/jqueryui-icons/](https://www.petefreitag.com/cheatsheets/jqueryui-icons/)
+
