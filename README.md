@@ -37,3 +37,7 @@
 
 ## JQUERY
 
+-   [https://oscarotero.com/jquery/](https://oscarotero.com/jquery/)
+-   [https://overapi.com/jquery](https://overapi.com/jquery)
+-   [https://www.petefreitag.com/cheatsheets/jqueryui-icons/](https://www.petefreitag.com/cheatsheets/jqueryui-icons/)
+
