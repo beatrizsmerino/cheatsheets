@@ -64,3 +64,8 @@
 -   [Files](./files/bash/)
 -   [https://devhints.io/bash](https://devhints.io/bash)
 
+## LINUX
+
+-   [Files](./files/linux/)
+-   [https://overapi.com/linux](https://overapi.com/linux)
+
