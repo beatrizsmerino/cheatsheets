@@ -59,3 +59,8 @@
 
 -   [https://overapi.com/nodejs](https://overapi.com/nodejs)
 
+## BASH
+
+-   [Files](./files/bash/)
+-   [https://devhints.io/bash](https://devhints.io/bash)
+
