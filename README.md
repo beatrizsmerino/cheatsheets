@@ -67,6 +67,8 @@
 ## JSDOC
 
 -   [Files](./files/jsdoc/)
+-   [https://jsdoc.app/](https://jsdoc.app/)
+-   [https://devhints.io/jsdoc](https://devhints.io/jsdoc)
 
 ## BASH
 
