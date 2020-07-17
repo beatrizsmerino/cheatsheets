@@ -64,6 +64,12 @@
 -   [Files](./files/markdown/)
 -   [https://devhints.io/markdown](https://devhints.io/markdown)
 
+## JSDOC
+
+-   [Files](./files/jsdoc/)
+-   [https://jsdoc.app/](https://jsdoc.app/)
+-   [https://devhints.io/jsdoc](https://devhints.io/jsdoc)
+
 ## BASH
 
 -   [Files](./files/bash/)
