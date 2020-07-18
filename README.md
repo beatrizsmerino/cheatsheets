@@ -108,4 +108,9 @@
 -   [Files](./files/atom/)
 -   [https://devhints.io/atom](https://devhints.io/atom)
 
+## VSCODE
+
+-   [Files](./files/vscode/)
+-   [https://devhints.io/vscode](https://devhints.io/vscode)
+
 
