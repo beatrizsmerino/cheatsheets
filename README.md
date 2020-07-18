@@ -72,6 +72,8 @@
 
 ## GIT
 
+-   [Files](./files/git/)
+
 ## BASH
 
 -   [Files](./files/bash/)
