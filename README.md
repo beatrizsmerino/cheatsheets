@@ -73,6 +73,14 @@
 ## GIT
 
 -   [Files](./files/git/)
+-   [https://overapi.com/git](https://overapi.com/git)
+-   [https://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html](https://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
+-   [https://devhints.io/git-branch](https://devhints.io/git-branch)
+-   [https://devhints.io/git-log-format](https://devhints.io/git-log-format)
+-   [https://devhints.io/git-revisions](https://devhints.io/git-revisions)
+-   [https://devhints.io/git-log](https://devhints.io/git-log)
+-   [https://devhints.io/git-tricks](https://devhints.io/git-tricks)
+-   [https://devhints.io/git-extras](https://devhints.io/git-extras)
 
 ## BASH
 
