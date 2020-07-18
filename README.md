@@ -37,6 +37,7 @@
 
 ## JQUERY
 
+-   [Files](./files/jquery/)
 -   [https://oscarotero.com/jquery/](https://oscarotero.com/jquery/)
 -   [https://overapi.com/jquery](https://overapi.com/jquery)
 -   [https://www.petefreitag.com/cheatsheets/jqueryui-icons/](https://www.petefreitag.com/cheatsheets/jqueryui-icons/)
@@ -57,6 +58,7 @@
 
 ## NODE
 
+-   [Files](./files/node/)
 -   [https://overapi.com/nodejs](https://overapi.com/nodejs)
 
 ## GRAPHQL
@@ -65,10 +67,12 @@
 
 ## MYSQL
 
+-   [Files](./files/mysql/)
 -   [https://overapi.com/mysql](https://overapi.com/mysql)
 
 ## PHP
 
+-   [Files](./files/php/)
 -   [https://overapi.com/php](https://overapi.com/php)
 
 ## MARKDOWN
@@ -128,3 +132,11 @@
 ## PHOTOSHOP
 
 -   [Files](./files/photoshop/)
+
+## ILLUSTRATOR
+
+-   [Files](./files/illustrator/)
+
+## BLENDER
+
+-   [Files](./files/blender/)
