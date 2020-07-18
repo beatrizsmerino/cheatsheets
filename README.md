@@ -61,6 +61,8 @@
 
 ## GRAPHQL
 
+-   [Files](./files/graphql/)
+
 ## MARKDOWN
 
 -   [Files](./files/markdown/)
