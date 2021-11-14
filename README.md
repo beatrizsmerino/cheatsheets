@@ -58,6 +58,8 @@
 
 ## VUE
 
+![Image of vue](./README/images/vue.svg)
+
 -   [Files](./files/vue/)
 -   [https://vuejs.org/](https://vuejs.org/)
 -   [https://vue2-leaflet.netlify.app/](https://vue2-leaflet.netlify.app/)
