@@ -49,6 +49,8 @@
 
 ## JQUERY
 
+![Image of jquery](./README/images/jquery.svg)
+
 -   [Files](./files/jquery/)
 -   [https://oscarotero.com/jquery/](https://oscarotero.com/jquery/)
 -   [https://overapi.com/jquery](https://overapi.com/jquery)
