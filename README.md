@@ -2,6 +2,8 @@
 
 ## HTML
 
+![Image of HTML](./README/images/html.svg)
+
 -   [Files](./files/html/)
 -   [https://overapi.com/html-dom](https://overapi.com/html-dom)
 -   [https://devhints.io/html](https://devhints.io/html)
