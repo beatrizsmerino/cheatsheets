@@ -118,6 +118,8 @@
 
 ## GIT
 
+![Image of git](./README/images/git.svg)
+
 -   [Files](./files/git/)
 -   [https://overapi.com/git](https://overapi.com/git)
 -   [https://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html](https://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
