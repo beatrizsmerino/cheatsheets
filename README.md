@@ -154,6 +154,8 @@
 
 ## SUBLIME TEXT
 
+![Image of Sublime Text](./README/images/sublime-text.svg)
+
 -   [Files](./files/sublime-text/)
 -   [https://devhints.io/sublime-text](https://devhints.io/sublime-text)
 
