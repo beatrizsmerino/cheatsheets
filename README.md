@@ -83,6 +83,8 @@
 
 ## GRAPHQL
 
+![Image of graphql](./README/images/graphql.svg)
+
 -   [Files](./files/graphql/)
 
 ## MYSQL
