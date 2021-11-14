@@ -168,6 +168,8 @@
 
 ## VSCODE
 
+![Image of vscode](./README/images/vsc.svg)
+
 -   [Files](./files/vscode/)
 -   [https://devhints.io/vscode](https://devhints.io/vscode)
 
