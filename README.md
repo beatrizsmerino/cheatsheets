@@ -27,6 +27,8 @@
 
 ## BOOTSTRAP
 
+![Image of Bootstrap](./README/images/bootstrap.svg)
+
 -   [Files](./files/bootstrap/)
 -   [https://devhints.io/bootstrap](https://devhints.io/bootstrap)
 
