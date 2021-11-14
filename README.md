@@ -181,6 +181,8 @@
 
 ## ILLUSTRATOR
 
+![Image of illustrator](./README/images/illustrator.svg)
+
 -   [Files](./files/illustrator/)
 
 ## BLENDER
