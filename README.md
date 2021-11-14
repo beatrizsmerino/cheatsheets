@@ -20,6 +20,8 @@
 
 ## SASS
 
+![Image of sass](./README/images/sass.svg)
+
 -   [Files](./files/sass/)
 -   [https://devhints.io/sass](https://devhints.io/sass)
 
