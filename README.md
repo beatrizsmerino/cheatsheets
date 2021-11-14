@@ -110,6 +110,8 @@
 
 ## JSDOC
 
+![Image of jsdoc](./README/images/jsdoc.svg)
+
 -   [Files](./files/jsdoc/)
 -   [https://jsdoc.app/](https://jsdoc.app/)
 -   [https://devhints.io/jsdoc](https://devhints.io/jsdoc)
