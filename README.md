@@ -34,6 +34,8 @@
 
 ## BULMA
 
+![Image of bulma](./README/images/bulma.svg)
+
 -   [Files](./files/bulma/)
 -   [https://devhints.io/bulma](https://devhints.io/bulma)
 
