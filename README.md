@@ -175,6 +175,8 @@
 
 ## PHOTOSHOP
 
+![Image of photoshop](./README/images/photoshop.svg)
+
 -   [Files](./files/photoshop/)
 
 ## ILLUSTRATOR
