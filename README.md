@@ -139,6 +139,8 @@
 
 ## LINUX
 
+![Image of linux](./README/images/linux.svg)
+
 -   [Files](./files/linux/)
 -   [https://overapi.com/linux](https://overapi.com/linux)
 
