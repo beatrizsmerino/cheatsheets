@@ -132,6 +132,8 @@
 
 ## BASH
 
+![Image of bash](./README/images/bash.svg)
+
 -   [Files](./files/bash/)
 -   [https://devhints.io/bash](https://devhints.io/bash)
 
