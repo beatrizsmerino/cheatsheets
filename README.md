@@ -161,6 +161,8 @@
 
 ## ATOM
 
+![Image of atom](./README/images/atom.svg)
+
 -   [Files](./files/atom/)
 -   [https://devhints.io/atom](https://devhints.io/atom)
 
