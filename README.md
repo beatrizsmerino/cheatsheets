@@ -103,6 +103,8 @@
 
 ## MARKDOWN
 
+![Image of markdown](./README/images/markdown.svg)
+
 -   [Files](./files/markdown/)
 -   [https://devhints.io/markdown](https://devhints.io/markdown)
 
