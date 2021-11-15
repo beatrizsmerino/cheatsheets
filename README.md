@@ -71,6 +71,8 @@
 
 ![Image of nuxt](./README/images/nuxt.svg)
 
+-   [Files](./files/nuxt/)
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
