@@ -69,6 +69,8 @@
 
 ## NUXT
 
+![Image of nuxt](./README/images/nuxt.svg)
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
