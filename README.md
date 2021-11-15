@@ -67,6 +67,12 @@
 -   [https://vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet)
 -   [https://vuejs-tips.github.io/vuex-cheatsheet/](https://vuejs-tips.github.io/vuex-cheatsheet/)
 
+## NUXT
+
+![Image of nuxt](./README/images/nuxt.svg)
+
+-   [Files](./files/nuxt/)
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
@@ -181,8 +187,12 @@
 
 ## ILLUSTRATOR
 
+![Image of illustrator](./README/images/illustrator.svg)
+
 -   [Files](./files/illustrator/)
 
 ## BLENDER
+
+![Image of blender](./README/images/blender.svg)
 
 -   [Files](./files/blender/)
