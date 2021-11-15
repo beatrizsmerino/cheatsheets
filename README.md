@@ -67,6 +67,8 @@
 -   [https://vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet)
 -   [https://vuejs-tips.github.io/vuex-cheatsheet/](https://vuejs-tips.github.io/vuex-cheatsheet/)
 
+## NUXT
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
