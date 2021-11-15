@@ -187,4 +187,6 @@
 
 ## BLENDER
 
+![Image of blender](./README/images/blender.svg)
+
 -   [Files](./files/blender/)
