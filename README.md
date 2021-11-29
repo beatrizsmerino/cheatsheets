@@ -17,7 +17,7 @@
 -   [https://overapi.com/css](https://overapi.com/css)
 -   [https://devhints.io/css-flexbox](https://devhints.io/css-flexbox)
 -   [https://devhints.io/css-tricks](https://devhints.io/css-tricks)
-- [http://cheatsheets.shecodes.io/css](http://cheatsheets.shecodes.io/css)
+-   [http://cheatsheets.shecodes.io/css](http://cheatsheets.shecodes.io/css)
 
 ## SASS
 
