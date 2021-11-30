@@ -28,6 +28,7 @@
 
 -   [Files](./files/sass/)
 -   [https://devhints.io/sass](https://devhints.io/sass)
+-   [https://quickref.me/sass](https://quickref.me/sass)
 
 ## BOOTSTRAP
 
