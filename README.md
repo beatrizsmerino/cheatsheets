@@ -71,6 +71,7 @@
 -   [https://devhints.io/vue](https://devhints.io/vue)
 -   [https://vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet)
 -   [https://vuejs-tips.github.io/vuex-cheatsheet/](https://vuejs-tips.github.io/vuex-cheatsheet/)
+-   [https://lobotuerto.com/notes/vue-with-typescript-cheat-sheet](https://lobotuerto.com/notes/vue-with-typescript-cheat-sheet)
 
 ## NUXT
 
