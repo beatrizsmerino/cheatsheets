@@ -78,6 +78,8 @@
 
 -   [Files](./files/nuxt/)
 
+# VUEX
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
