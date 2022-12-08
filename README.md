@@ -80,6 +80,8 @@
 
 # VUEX
 
+- ![Image of vuex](./README/images/vuex.svg)
+
 -   [Files](./files/vuex/)
 -   [https://vuejs-tips.github.io/vuex-cheatsheet/](https://vuejs-tips.github.io/vuex-cheatsheet/)
 -   [https://blog.seesharp.co.uk/vuex-cheat-sheet/](https://blog.seesharp.co.uk/vuex-cheat-sheet/)
