@@ -80,6 +80,7 @@
 
 # VUEX
 
+-   [Files](./files/vuex/)
 -   [https://vuejs-tips.github.io/vuex-cheatsheet/](https://vuejs-tips.github.io/vuex-cheatsheet/)
 -   [https://blog.seesharp.co.uk/vuex-cheat-sheet/](https://blog.seesharp.co.uk/vuex-cheat-sheet/)
 -   [https://medium.com/vue-mastery/vuex-explained-visually-f17c8c76d6c4](https://medium.com/vue-mastery/vuex-explained-visually-f17c8c76d6c4)
