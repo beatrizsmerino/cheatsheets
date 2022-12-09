@@ -80,6 +80,8 @@
 
 ## PINIA
 
+![Image of pinia](./README/images/pinia.svg)
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
