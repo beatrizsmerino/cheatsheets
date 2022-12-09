@@ -78,6 +78,8 @@
 
 -   [Files](./files/nuxt/)
 
+## PINIA
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
