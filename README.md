@@ -82,6 +82,8 @@
 
 ![Image of pinia](./README/images/pinia.svg)
 
+-   [Files](./files/pinia/)
+
 ## REACT
 
 ![Image of react](./README/images/react.svg)
