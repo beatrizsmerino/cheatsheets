@@ -77,6 +77,7 @@
 ![Image of nuxt](./README/images/nuxt.svg)
 
 -   [Files](./files/nuxt/)
+-   [https://motorscript.com/nuxt-deployment-cheatsheet/](https://motorscript.com/nuxt-deployment-cheatsheet/)
 
 ## REACT
 
