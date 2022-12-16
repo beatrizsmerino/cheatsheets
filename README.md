@@ -36,6 +36,10 @@
 
 - [Files](./files/bootstrap/)
 - [https://devhints.io/bootstrap](https://devhints.io/bootstrap)
+- [https://www.creative-tim.com/cheatsheet/bootstrap4](https://www.creative-tim.com/cheatsheet/bootstrap4)
+- [https://bootstrap-cheatsheet.themeselection.com/](https://bootstrap-cheatsheet.themeselection.com/)
+- [https://hackerthemes.com/bootstrap-cheatsheet/](https://hackerthemes.com/bootstrap-cheatsheet/)
+- [http://cheatsheets.shecodes.io/bootstrap](http://cheatsheets.shecodes.io/bootstrap)
 
 ## BULMA
 
