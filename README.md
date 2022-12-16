@@ -21,6 +21,7 @@
 - [https://devhints.io/css-tricks](https://devhints.io/css-tricks)
 - [http://cheatsheets.shecodes.io/css](http://cheatsheets.shecodes.io/css)
 - [https://htmlcheatsheet.com/css/](https://htmlcheatsheet.com/css/)
+- [https://learntheweb.courses/topics/css-animations-effects-cheat-sheet/](https://learntheweb.courses/topics/css-animations-effects-cheat-sheet/)
 
 ## SASS
 
