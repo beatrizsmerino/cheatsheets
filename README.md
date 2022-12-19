@@ -212,6 +212,7 @@
 
 - [Files](./files/vscode/)
 - [https://devhints.io/vscode](https://devhints.io/vscode)
+- [http://cheatsheets.shecodes.io/vs-code](http://cheatsheets.shecodes.io/vs-code)
 
 ## PHOTOSHOP
 
