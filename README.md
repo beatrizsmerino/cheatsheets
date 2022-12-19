@@ -106,6 +106,12 @@
 
 - [Files](./files/react/)
 - [https://devhints.io/react](https://devhints.io/react)
+- [http://cheatsheets.shecodes.io/react](http://cheatsheets.shecodes.io/react)
+- [https://www.freecodecamp.org/news/the-react-cheatsheet/](https://www.freecodecamp.org/news/the-react-cheatsheet/)
+- [https://codingcheats.io/react/](https://codingcheats.io/react/)
+- [https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet)
+- [https://upmostly.com/ultimate-reactjs-cheat-sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet)
+- [https://reactcheatsheet.com/](https://reactcheatsheet.com/)
 
 ## NODE
 
