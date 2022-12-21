@@ -85,7 +85,7 @@
 - [Files](./files/nuxt/)
 - [https://motorscript.com/nuxt-deployment-cheatsheet/](https://motorscript.com/nuxt-deployment-cheatsheet/)
 
-# VUEX
+## VUEX
 
 ![Image of vuex](./README/images/vuex.svg)
 
