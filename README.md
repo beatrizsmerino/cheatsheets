@@ -126,7 +126,7 @@
 
 - [Files](./files/graphql/)
 
-## MYSQL
+## SQL
 
 ![Image of mysql](./README/images/mysql.svg)
 
