@@ -126,11 +126,11 @@
 
 - [Files](./files/graphql/)
 
-## MYSQL
+## SQL
 
 ![Image of mysql](./README/images/mysql.svg)
 
-- [Files](./files/mysql/)
+- [Files](./files/sql/)
 - [https://overapi.com/mysql](https://overapi.com/mysql)
 - [https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet)
 
