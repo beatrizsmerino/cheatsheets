@@ -23,6 +23,9 @@
 - [http://cheatsheets.shecodes.io/css](http://cheatsheets.shecodes.io/css)
 - [https://htmlcheatsheet.com/css/](https://htmlcheatsheet.com/css/)
 - [https://learntheweb.courses/topics/css-animations-effects-cheat-sheet/](https://learntheweb.courses/topics/css-animations-effects-cheat-sheet/)
+- [https://cssreference.io/](https://cssreference.io/)
+- [https://flexbox.malven.co/](https://flexbox.malven.co/)
+- [https://grid.malven.co/](https://grid.malven.co/)
 
 ## SASS
 
