@@ -60,6 +60,8 @@
 - [Files](./files/javascript/)
 - [https://overapi.com/javascript](https://overapi.com/javascript)
 - [https://www.debuggex.com/cheatsheet/regex/javascript](https://www.debuggex.com/cheatsheet/regex/javascript)
+- [http://es6-features.org/](http://es6-features.org/)
+- [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## JQUERY
 
