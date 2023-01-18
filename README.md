@@ -241,4 +241,6 @@
 
 ## ENGLISH
 
+![Image of english](./README/images/english.svg)
+
 - [Files](./files/english/)
