@@ -238,3 +238,24 @@
 ![Image of blender](./README/images/blender.svg)
 
 - [Files](./files/blender/)
+
+## ENGLISH
+
+![Image of english](./README/images/english.svg)
+
+- [Files](./files/english/)
+- [https://es.babbel.com/](https://my.babbel.com/es/product-preview/ENG)
+- [https://www.abaenglish.com/](https://www.abaenglish.com/#menu-footer-link-grup-2)
+- [https://www.ejerciciosinglesonline.com/](https://www.ejerciciosinglesonline.com/)
+- [https://www.curso-ingles.com/practicar/ejercicios](https://www.curso-ingles.com/practicar/ejercicios)
+- [https://es.liveworksheets.com/worksheets/es/Ingl%C3%A9s](https://es.liveworksheets.com/worksheets/es/Ingl%C3%A9s)
+- [https://www.mansioningles.com/ejercicios00.htm](https://www.mansioningles.com/ejercicios00.htm)
+- [http://aprendeinglesjuanra.com/index.php/2020/04/10/ejercicios-de-ingles-online-gratis-primaria-eso-bachiller-eoi/](http://aprendeinglesjuanra.com/index.php/2020/04/10/ejercicios-de-ingles-online-gratis-primaria-eso-bachiller-eoi/)
+- [http://saberingles.com.ar/exercises/](http://saberingles.com.ar/exercises/)
+- [https://grupovaughan.com/a/ejercicios-de-ingles-para-practicar-la-gramatica/](https://grupovaughan.com/a/ejercicios-de-ingles-para-practicar-la-gramatica/)
+- [https://www.educapeques.com/recursos-para-primaria/ingles](https://www.educapeques.com/recursos-para-primaria/ingles)
+- [https://www.grammarbank.com/ejercicios-pdf-ingles.html](https://www.grammarbank.com/ejercicios-pdf-ingles.html)
+- [https://idiomium.es/ejercicios-de-ingles/ejercicios-para-imprimir/](https://idiomium.es/ejercicios-de-ingles/ejercicios-para-imprimir/)
+- [https://infolibros.org/libros-pdf-gratis/idiomas/ejercicios-ingles/](https://infolibros.org/libros-pdf-gratis/idiomas/ejercicios-ingles/)
+- [https://www.englishspanishlink.com/ejercicios-ingles/pdf.htm](https://www.englishspanishlink.com/ejercicios-ingles/pdf.htm)
+- [https://appsparaaprenderingles.com/ejercicios-de-ingles-pdf/](https://appsparaaprenderingles.com/ejercicios-de-ingles-pdf/)
