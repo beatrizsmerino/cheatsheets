@@ -243,7 +243,9 @@
 
 ![Image of english](./README/images/english.svg)
 
-- [Files](./files/english/)
+- [Files about books](./files/english/books)
+- [Files about theory](./files/english/theory)
+- [Files about exercises](./files/english/exercises)
 - [https://es.babbel.com/](https://my.babbel.com/es/product-preview/ENG)
 - [https://www.abaenglish.com/](https://www.abaenglish.com/#menu-footer-link-grup-2)
 - [https://www.ejerciciosinglesonline.com/](https://www.ejerciciosinglesonline.com/)
