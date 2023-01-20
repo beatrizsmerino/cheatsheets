@@ -34,8 +34,7 @@
 	- [https://overapi.com/html-dom](https://overapi.com/html-dom)
 	- [https://devhints.io/html](https://devhints.io/html)
 	- [https://devhints.io/html-meta](https://devhints.io/html-meta)
-	- [https://www.codecademy.com/learn/learn-html-web-dev-path/modules/learn-html-elements/cheatsheet](https://www.codecademy.com/learn/learn-html-web-dev-path/modules/learn-html-elements/cheatsheet)
-	- [https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
+	- [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)
 	- [https://htmlreference.io/](https://htmlreference.io/)
 
 ## CSS
