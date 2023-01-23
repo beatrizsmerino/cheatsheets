@@ -24,6 +24,10 @@
 	- [https://infolibros.org/libros-pdf-gratis/idiomas/ejercicios-ingles/](https://infolibros.org/libros-pdf-gratis/idiomas/ejercicios-ingles/)
 	- [https://www.englishspanishlink.com/ejercicios-ingles/pdf.htm](https://www.englishspanishlink.com/ejercicios-ingles/pdf.htm)
 	- [https://appsparaaprenderingles.com/ejercicios-de-ingles-pdf/](https://appsparaaprenderingles.com/ejercicios-de-ingles-pdf/)
+	- [https://wordwall.net/es/teacher/1582316/misslucy18](https://wordwall.net/es/teacher/1582316/misslucy18)
+	- [https://test-english.com/](https://test-english.com/)
+	- [https://www.aprenderinglesrapidoyfacil.com/](https://www.aprenderinglesrapidoyfacil.com/)
+	- [https://comoaprenderinglesbien.com/category/ejercicios/](https://comoaprenderinglesbien.com/category/ejercicios/)
 
 ## HTML
 
