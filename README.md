@@ -1,4 +1,4 @@
-# CHEAT SHEETS
+# Cheat sheets
 
 ## HTML
 
