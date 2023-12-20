@@ -40,6 +40,7 @@
 	- [https://devhints.io/html-meta](https://devhints.io/html-meta)
 	- [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)
 	- [https://htmlreference.io/](https://htmlreference.io/)
+	- [https://www.git-tower.com/learn/cheat-sheets/html](https://www.git-tower.com/learn/cheat-sheets/html)
 
 ## CSS
 
@@ -96,6 +97,7 @@
 	- [https://www.debuggex.com/cheatsheet/regex/javascript](https://www.debuggex.com/cheatsheet/regex/javascript)
 	- [http://es6-features.org/](http://es6-features.org/)
 	- [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+        - [https://www.git-tower.com/learn/cheat-sheets/javascript](https://www.git-tower.com/learn/cheat-sheets/javascript)
 
 ## JQUERY
 
@@ -196,6 +198,7 @@
 - [Files](./files/markdown/)
 - Links:
 	- [https://devhints.io/markdown](https://devhints.io/markdown)
+   	- [https://www.git-tower.com/learn/cheat-sheets/markdown](https://www.git-tower.com/learn/cheat-sheets/markdown)
 
 ## JSDOC
 
@@ -221,6 +224,8 @@
 	- [https://devhints.io/git-tricks](https://devhints.io/git-tricks)
 	- [https://devhints.io/git-extras](https://devhints.io/git-extras)
 	- [https://gitsheet.wtf/](https://gitsheet.wtf/)
+   	- [https://www.git-tower.com/learn/cheat-sheets/git](https://www.git-tower.com/learn/cheat-sheets/git)
+   	- [https://www.git-tower.com/learn/cheat-sheets/git-branches](https://www.git-tower.com/learn/cheat-sheets/git-branches)
 
 ## BASH
 
@@ -271,6 +276,7 @@
 - Links:
 	- [https://devhints.io/vscode](https://devhints.io/vscode)
 	- [http://cheatsheets.shecodes.io/vs-code](http://cheatsheets.shecodes.io/vs-code)
+ 	- [https://www.git-tower.com/learn/cheat-sheets/vscode](https://www.git-tower.com/learn/cheat-sheets/vscode)
 
 ## PHOTOSHOP
 
